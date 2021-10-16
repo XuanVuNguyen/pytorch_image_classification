@@ -1,3 +1,4 @@
 # pytorch_image_classification
-This is just myy first interaction with Pytorch.
-I'm gonna playing around with the Pytorch library, following the tutorial on the official page of Pytorch
+This is my first interaction with Pytorch.
+
+I'm just gonna playing around with the Pytorch library, following the tutorial on the official page of Pytorch.
